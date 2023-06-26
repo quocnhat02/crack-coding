@@ -1,0 +1,10 @@
+{
+  "C_Cpp.default.compilerPath": "d:\\Project\\crack-coding\\myFirstProg.c",
+  "files.associations": {
+    "*.html": "html",
+    "*.scss": "scss",
+    "*.jsx": "javascriptreact",
+    "*.txt": "tex",
+    "stdio.h": "c"
+  }
+}
