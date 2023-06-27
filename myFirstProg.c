@@ -2,17 +2,11 @@
 
 int main()
 {
-    int n;
-    scanf("%d", &n);
+    int n = 10;
+    int *m = &n;
+    n = 30;
 
-    for (int i = 0; i < n; i++)
-    {
-        for (int j = 0; j < i + 1; j++)
-        {
-            printf("*");
-        }
-        printf("\n");
-    }
+    printf("%d %d", n, *m);
 
     return 0;
 }
