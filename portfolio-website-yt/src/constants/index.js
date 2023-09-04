@@ -20,11 +20,11 @@ import {
 export const AppText = {
   hello: 'Hello,',
   Iam: 'I am ',
-  RahulSanap: 'Rahul Sanap',
-  aboutMeDescripion:
+  name: 'Nhat',
+  aboutMeDescription:
     'I am software developer working in IT industry from  last 6 Years as Full stack developer. Expert in UI/UX design, Front-end  and Back-end Development',
   Skills: 'Skills & ',
-  Experties: 'Experties',
+  Expertise: 'Expertise',
   UIUXDesigner: 'UI/UX Designer',
   BackendDeveloper: 'Backend Dev',
   FrontedDeveloper: 'Frontend Dev',
@@ -34,7 +34,7 @@ export const AppText = {
   WorkedFor: 'Worked For',
   Contact: 'Contact ',
   Us: 'Us',
-  copywriteText: 'Copyright by Rahul Sanap @2023',
+  copyrightText: 'Copyright by Nhat Nguyen @2023',
 };
 
 export const aboutSection = [
